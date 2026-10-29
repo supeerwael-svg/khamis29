@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EduTrack</string>
+    <string name="title_activity_main">EduTrack</string>
+    <string name="package_name">com.edutrack.app</string>
+    <string name="custom_url_scheme">com.edutrack.app</string>
+</resources>
